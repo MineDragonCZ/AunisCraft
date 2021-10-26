@@ -1,5 +1,5 @@
 {
-	"dependencies": "minecraft",
+	"priority": 1000000000000,
 	"populate": {
 		"dirt": {
 
