@@ -1,2 +1,2 @@
 # AunisCraft
-Modpack for aunis server
+Modpack for aunis server.
